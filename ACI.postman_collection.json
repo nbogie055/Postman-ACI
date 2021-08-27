@@ -568,6 +568,46 @@
 						}
 					},
 					"response": []
+				},
+				{
+					"name": "All static ports for EPG",
+					"request": {
+						"method": "GET",
+						"header": [
+							{
+								"key": "Authorization",
+								"value": "{{token}}",
+								"type": "text"
+							}
+						],
+						"url": {
+							"raw": "https://{{apic1}}/api/node/mo/uni/tn-Nick1/ap-AP1/epg-E1.json?query-target=children&target-subtree-class=fvRsPathAtt",
+							"protocol": "https",
+							"host": [
+								"{{apic1}}"
+							],
+							"path": [
+								"api",
+								"node",
+								"mo",
+								"uni",
+								"tn-Nick1",
+								"ap-AP1",
+								"epg-E1.json"
+							],
+							"query": [
+								{
+									"key": "query-target",
+									"value": "children"
+								},
+								{
+									"key": "target-subtree-class",
+									"value": "fvRsPathAtt"
+								}
+							]
+						}
+					},
+					"response": []
 				}
 			]
 		},
