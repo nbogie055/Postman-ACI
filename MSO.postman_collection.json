@@ -57,7 +57,7 @@
 				"header": [
 					{
 						"key": "Authorization",
-						"value": "Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2Mjk5MjIyNTcsImlhdCI6MTYyOTkyMTA1NywiaXNzIjoiMDY3Zjg0NTE2ZGU4NGNkMmFlZGEyNGNkNDY5M2UyNWIiLCJtc29Vc2VySWQiOiI1ZTg0YjNiZjBmMDAwMGM3MTBjMDVkNGMiLCJ1c2VybmFtZSI6Im5ib2dkYWplIiwicGVybWlzc2lvbnMiOlsidmlldy1zaXRlLWFkbWluIiwidmlldy1zaXRlLXBvbGljeSIsInZpZXctdGVuYW50LWNvbm5lY3Rpdml0eSIsInZpZXctYWFhIiwidmlldy1jb25maWctbWFuYWdlciIsInZpZXctYWRtaW4iLCJtYW5hZ2UtdGVuYW50LWNvbm5lY3Rpdml0eSIsIm1hbmFnZS1zaXRlLWFkbWluIiwibWFuYWdlLXNpdGUtcG9saWN5IiwibWFuYWdlLWFhYSIsIm1hbmFnZS1hZG1pbiIsIm1hbmFnZS1jb25maWctbWFuYWdlciJdLCJyYmFjIjpbXSwidXNlcmZsYWdzIjoxLCJzZXNzaW9uaWQiOiIxMjQ1IiwidXNlcmlkIjoyNTAwMn0.lMk9_HyxPsY4xfpnd3ZUOTAWpAAQwB3tohPQ1fqHZ-Y",
+						"value": "Bearer ",
 						"type": "text"
 					},
 					{
